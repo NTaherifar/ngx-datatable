@@ -216,7 +216,7 @@ Apache-2.0
  
 
 
-test3-ngx-datatable
+test2-ngx-datatable
 MIT
 
 tslib
